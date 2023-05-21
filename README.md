@@ -31,7 +31,7 @@
 - 🌱 I’m not currently learning
 - 📫 How to reach me (don't reach me)
 
-![](https://komarev.com/ghpvc/?username=Ushie)
+![](https://komarev.com/ghpvc/?username=LucasM548)
 
 <!---
 LucasM548/LucasM548 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
