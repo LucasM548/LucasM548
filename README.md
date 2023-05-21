@@ -16,6 +16,13 @@
   </a>
 </div>
 
+<div align=center>
+  <div style="display:inline-grid; gap:30px; grid-template-columns: auto auto auto auto; margin: 25px 0px 25px;">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python/" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
+  </div>
+</div>
+
 
 - 👋 Hi, I’m @LucasM548
 - 👀 I’m interested in a lot of things
