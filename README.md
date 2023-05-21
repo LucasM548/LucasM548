@@ -3,7 +3,7 @@
 </div>
 
 
-&nbsp;
+
 <!-- GitHub Streak -->
 <div align=center style="margin-bottom: 25px;">
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
