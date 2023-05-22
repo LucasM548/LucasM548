@@ -5,7 +5,7 @@
 <!-- GitHub Activity -->
 <div align="center">
   <h3>GitHub Activity</h3>
-  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasM54&background=0000&border=0000&stroke=aaa&ring=059669&fire=10b981&currStreakLabel=10b981&currStreakNum=4a9e90&sideLabels=10b981&sideNums=4a9e90&dates=aaa" />
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasM54&background=0000&border=0000&stroke=aaa&ring=059669&fire=10b981&currStreakLabel=10b981&currStreakNum=4a9e90&sideLabels=10b981&sideNums=4a9e90&dates=20230310" />
 </div>
 
 <!-- GitHub Stats -->
