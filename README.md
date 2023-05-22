@@ -22,11 +22,7 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
 </div>
 
-- 👋 Hi, I’m @LucasM548
-- 👀 I’m interested in a lot of things
-- 🌱 I’m not currently learning
-- 📫 How to reach me (don't reach me)
-
 <div align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=LucasM548" alt="Profile Views" />
 </div>
