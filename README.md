@@ -1,5 +1,6 @@
 <img width=100% title="Lucas_M54" alt="Lucas_M54" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas_M54&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
+
 <!-- ###### HEAD ##### -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasM548" alt="Profile Views" />
@@ -13,6 +14,7 @@
 
 <!-- ###### END OF HEAD ##### -->
 
+
 <!-- ###### Languages | Tools ##### -->
 <br />
 <h4 align="center"><br>
@@ -24,6 +26,7 @@
 <code><img src="https://cdn.simpleicons.org/git/" width="35"/></code>
 <!-- ###### END OF Languages | Tools ##### -->
 
+
 <!-- ###### 📖 Currently Learning 📖 ##### -->
 <h4 align="left">
 📖 Currently Learning 📖 
@@ -31,6 +34,7 @@
   <code><img src="https://cdn.simpleicons.org/nodedotjs/" width="30" height="30" alt="NodeJS" /></code>
 <br />
 <!-- ###### END OF Currently Learning ##### -->
+
 
  <!-- ###### Some of my projects ##### -->
 <details> 
@@ -54,6 +58,7 @@
 </details>
 <!-- ###### END OF Some of my projects ##### -->
 
+
 <!-- ###### My Github Stats ##### -->
 <h4 align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -64,6 +69,7 @@
   <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=LucasM548&hide_border=true&locale=fr&background=FFFFFF00&stroke=AAAAAA&ring=059669&fire=10B981&currStreakLabel=10B981&currStreakNum=4A9E90&sideLabels=10B981&sideNums=4A9E90&dates=AAAAAA" />
 </div>
 <!-- ###### END OF My Github Stats  ##### -->
+
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
