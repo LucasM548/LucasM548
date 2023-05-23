@@ -44,11 +44,10 @@
   <br/>
 
   <p align="left">
-    <a href="https://github.com/The-Young-Programmer/Math-Quize">
+    <a href="https://github.com/LucasM548/Projets-Lucas">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasM548&repo=Projets-Lucas&theme=react&bg_color=0D1117" alt="Projets-Lucas"></a>
-    <a href="https://github.com/The-Young-Programmer/Hangman-Game">
+    <a href="https://github.com/LucasM548/Pear-Search">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasM548&repo=Pear-Search&theme=react&bg_color=0D1117" alt="Pear-Search"></a>
-    <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
   </p>
 
    <p align="left">
