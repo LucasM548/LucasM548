@@ -10,8 +10,8 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-<!-- ###### END OF HEAD ##### -->
 
+<!-- ###### END OF HEAD ##### -->
 
 <!-- ###### Languages | Tools ##### -->
 <br />
@@ -24,7 +24,6 @@
 <code><img src="https://cdn.simpleicons.org/git/" width="35"/></code>
 <!-- ###### END OF Languages | Tools ##### -->
 
-
 <!-- ###### 📖 Currently Learning 📖 ##### -->
 <h4 align="left">
 📖 Currently Learning 📖 
@@ -32,7 +31,6 @@
   <code><img src="https://cdn.simpleicons.org/nodedotjs/" width="30" height="30" alt="NodeJS" /></code>
 <br />
 <!-- ###### END OF Currently Learning ##### -->
-
 
  <!-- ###### Some of my projects ##### -->
 <details> 
@@ -56,7 +54,6 @@
 </details>
 <!-- ###### END OF Some of my projects ##### -->
 
-
 <!-- ###### My Github Stats ##### -->
 <h4 align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
@@ -67,7 +64,6 @@
   <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=LucasM548&hide_border=true&locale=fr&background=FFFFFF00&stroke=AAAAAA&ring=059669&fire=10B981&currStreakLabel=10B981&currStreakNum=4A9E90&sideLabels=10B981&sideNums=4A9E90&dates=AAAAAA" />
 </div>
 <!-- ###### END OF My Github Stats  ##### -->
-
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
