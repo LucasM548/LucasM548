@@ -1,6 +1,6 @@
-<!-- ###### HEAD ##### -->
 <img width=100% title="Lucas_M54" alt="Lucas_M54" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas_M54&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
+
+<!-- ###### HEAD ##### -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasM548" alt="Profile Views" />
 </p>
@@ -25,7 +25,7 @@
 <!-- ###### END OF Languages | Tools ##### -->
 
 
-<!-- ###### Currently Learning ##### -->
+<!-- ###### 📖 Currently Learning 📖 ##### -->
 <h4 align="left">
 📖 Currently Learning 📖 
 </h4>
@@ -54,10 +54,10 @@
     <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
    </p>
 </details>
-<!-- ###### END OF Some of my projects  ##### -->
+<!-- ###### END OF Some of my projects ##### -->
 
 
-<!-- ###### My Github Stats  ##### -->
+<!-- ###### My Github Stats ##### -->
 <h4 align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h4>
@@ -70,7 +70,5 @@
 
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-<!-- ###### END OF FOOTER ##### -->
-
 
 <!-- https://github.com/The-Young-Programmer -->
