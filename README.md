@@ -71,6 +71,15 @@
 <!-- ###### END OF My Github Stats  ##### -->
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<!-- ###### Support  ##### -->
+<h4 align="center">
+  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+</p>
+<!-- ###### END OF Support  ##### -->
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://www.paypal.com/paypalme/biquidouLIV"/>
 
 <!-- https://github.com/The-Young-Programmer -->
