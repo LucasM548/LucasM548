@@ -75,7 +75,7 @@
 <h4 align="center">
   <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
 <p align="center">
-  <a href="https://www.paypal.com/paypalme/LucasM54"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+  <a href="https://www.paypal.com/paypalme/LucasM54" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>
 <!-- ###### END OF Support  ##### -->
 
